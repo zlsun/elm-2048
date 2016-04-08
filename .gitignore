@@ -8,5 +8,6 @@ elm-stuff/
 repl-temp-*
 
 *.js
+*.html
 .vscode/
 
