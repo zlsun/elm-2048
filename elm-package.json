@@ -1,10 +1,10 @@
 {
     "version": "1.0.0",
-    "summary": "helpful summary of your project, less than 80 characters",
-    "repository": "https://github.com/USER/PROJECT.git",
-    "license": "BSD3",
+    "summary": "A clone of 2048 in elm",
+    "repository": "https://github.com/zlsun/elm-2048.git",
+    "license": "MIT",
     "source-directories": [
-        "."
+        "src"
     ],
     "exposed-modules": [],
     "dependencies": {
